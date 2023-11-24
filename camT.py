@@ -21,8 +21,11 @@ print(Fore.RED +"""
         %=.-@=@=% =:%+.#: .@-.=:#==:%:       
         =  -. = -=- ==--== =+==*#-*#=        
                             ..:::.:-         
+AUTHOR: ABU TALHA 
                                              
+CCTV-CAMERA HACK 
 
+Warning: DONT COPY MY TOOL!
 
 """)
 print("""\033[1;37m
@@ -89,3 +92,4 @@ except:
 finally:
     print("\033[1;37m")
     exit()
+  
